@@ -1,0 +1,20 @@
+body {
+    color: white;
+}
+.header {
+    background-color: #1F2937;
+}
+
+.image-placeholder {
+    background-color: #CCCCCC;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links{
+    display: flex;
+    gap: 5px;
+}
